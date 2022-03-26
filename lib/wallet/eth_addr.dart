@@ -3,7 +3,6 @@ import 'dart:typed_data';
 
 import 'package:convert/convert.dart';
 import 'package:dart_bip32_bip44/dart_bip32_bip44.dart';
-import 'package:flutter/material.dart';
 import 'package:pointycastle/digests/keccak.dart';
 import 'package:secp256k1/secp256k1.dart';
 
