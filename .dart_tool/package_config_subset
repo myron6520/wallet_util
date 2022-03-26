@@ -6,6 +6,10 @@ async
 2.12
 file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/async-2.8.2/
 file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/async-2.8.2/lib/
+base32
+2.12
+file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/base32-2.1.1/
+file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/base32-2.1.1/lib/
 base58check
 2.12
 file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/base58check-2.0.0/
@@ -22,6 +26,10 @@ bip39
 2.12
 file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/bip39-1.0.6/
 file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/bip39-1.0.6/lib/
+blake2b
+2.14
+file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/blake2b-0.2.2/
+file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/blake2b-0.2.2/lib/
 boolean_selector
 2.12
 file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/boolean_selector-2.1.0/
@@ -62,6 +70,10 @@ fake_async
 2.12
 file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/fake_async-1.2.0/
 file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/fake_async-1.2.0/lib/
+fixnum
+2.12
+file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/fixnum-1.0.0/
+file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/fixnum-1.0.0/lib/
 flutter_lints
 2.12
 file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_lints-1.0.4/
@@ -98,6 +110,10 @@ pointycastle
 2.12
 file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/pointycastle-3.5.2/
 file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/pointycastle-3.5.2/lib/
+secp256k1
+2.12
+file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/secp256k1-0.3.0/
+file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/secp256k1-0.3.0/lib/
 source_span
 2.12
 file:///Users/zhongyuanyuan/flutter/.pub-cache/hosted/pub.flutter-io.cn/source_span-1.8.1/
